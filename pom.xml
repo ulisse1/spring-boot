@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>sia</groupId>
-	<artifactId>koala-cloud</artifactId>
+	<artifactId>taco-cloud</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>KoalaCloud</name>
-	<description>Koala Cloud</description>
+	<name>TacoCloud</name>
+	<description>Taco Cloud</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
